@@ -1,0 +1,9 @@
+{
+	"Version":"1.0",
+	"Domain":"formula.kctest.co",
+	"ECRMAPIURL":"http://ecrm.kctest.co:6060/ecrm-api/",
+	"DefaultMD5Key":"XjvTLI6p0mOQK051",
+	"DefaultAESKey":"i9Q30JYMf06NmBCJ",
+	"TokenExpireSecond":1800
+}
+
